@@ -34,7 +34,7 @@ Locales['en'] = {
 	--Distribution
 	['open_distribution']		= 'Press ~INPUT_PICKUP~ To recover mail and parcels',
 
-	['letter']					= 'Mail',
+	['letter']					= 'Letter',
 	['colis']					= 'Parcel',
 
 	['distribution']			= 'Distribution Center',
